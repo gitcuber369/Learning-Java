@@ -7,7 +7,7 @@ public class BankBalance {
     public void Deposite(double amount) {
         if (amount > 0) {
             amount += balance;
-            System.out.println("Deposite Sucessful Present balance : " + balance  );
+            System.out.println("Deposite SucessfulPresent balance : " + balance  );
         } else {
             System.out.println("Invalid Amount");
         }
