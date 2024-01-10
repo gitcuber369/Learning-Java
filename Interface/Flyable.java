@@ -1,3 +1,5 @@
+// thing to remember -> in this to print all the classes we had to make an array of the classes 
+
 package Interface;
 
 public interface Flyable {
